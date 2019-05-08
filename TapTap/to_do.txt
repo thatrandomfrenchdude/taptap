@@ -1,0 +1,8 @@
+To Do:
+
+    - Set screen constraints for different models
+
+Notes:
+
+    - ! means that the compiler/processor does not check to see if the value exists. It assumes that it exists and crashes if the value is nil
+    - ? means that the compiler/processor will check to make sure that the value does in fact exist. If it exists, the app will proceed as normal. If it does not exist, the app will perform the necessary error handling to ensure the app does not crash
